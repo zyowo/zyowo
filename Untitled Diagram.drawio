@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-09T12:50:05.878Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3861.400 QQBrowser/10.7.4313.400" etag="oMeD5LxUioSeXj8_0Z0l" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-09T12:52:55.807Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3861.400 QQBrowser/10.7.4313.400" etag="YzOnq1FcWBKVlE0iefqx" version="14.6.11" type="github">
   <diagram id="J1PslAN6FnOvginsfLQC" name="Page-1">
     <mxGraphModel dx="2249" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="yMSGGpOBPpIk3I2XdFV3-1" value="汪绮祯&lt;br style=&quot;font-size: 14px;&quot;&gt;qi3 zhen1" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-180" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMSGGpOBPpIk3I2XdFV3-2" value="顾贺同" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="yMSGGpOBPpIk3I2XdFV3-2" value="顾贺同&lt;br&gt;（丁辰）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-180" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yMSGGpOBPpIk3I2XdFV3-3" value="24，陆军医院外科医生，知书达理，清秀温婉" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" vertex="1" parent="1">
@@ -16,19 +16,19 @@
         <mxCell id="yMSGGpOBPpIk3I2XdFV3-4" value="25，亲日时报记者，饱读诗书、斯文儒雅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-230" y="410" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yMSGGpOBPpIk3I2XdFV3-5" value="苏曼云" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="yMSGGpOBPpIk3I2XdFV3-5" value="苏曼云&lt;br&gt;（蔡辰涛）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-180" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yMSGGpOBPpIk3I2XdFV3-6" value="25，伪政府财政部办公室秘书，开朗大方、英姿飒爽" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-230" y="585" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yMSGGpOBPpIk3I2XdFV3-7" value="陆勇民" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="yMSGGpOBPpIk3I2XdFV3-7" value="陆勇民&lt;br&gt;（杨智添）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yMSGGpOBPpIk3I2XdFV3-8" value="28，日本宪兵队队长，稳重勇猛、挺拔魁梧" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="460" y="230" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yMSGGpOBPpIk3I2XdFV3-9" value="阮如玉" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="yMSGGpOBPpIk3I2XdFV3-9" value="阮如玉&lt;br&gt;（胡涛）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="480" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yMSGGpOBPpIk3I2XdFV3-11" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: arial; font-size: 13px; background-color: rgb(255, 255, 255);&quot;&gt;日本宪兵实际上就是军队中的警察，直属于陆军大臣管辖。1881年刚组建时主要是维护军纪，&lt;br style=&quot;font-size: 13px;&quot;&gt;二战前后职权进一步扩大，对于一切异议分子进行肃清，它对所有国土进行半民事、半军事的监视。&lt;br style=&quot;font-size: 13px;&quot;&gt;在二战时期日军占领区，宪兵是搜捕镇压抗日分子的主力。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=13;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
         <mxCell id="yMSGGpOBPpIk3I2XdFV3-15" value="&lt;div&gt;参照当时24年式调整师的编制&lt;/div&gt;&lt;div&gt;一般情况下，连一级有卫生兵，负责包扎和简单处理，会配几个民夫负责伤员后送&lt;/div&gt;&lt;div&gt;团一级设包扎所，师一级有野战医院，可从事一般手术&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-180" y="250" width="520" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMSGGpOBPpIk3I2XdFV3-16" value="杜子龙" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="yMSGGpOBPpIk3I2XdFV3-16" value="杜子龙&lt;br&gt;（沈水明）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="480" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yMSGGpOBPpIk3I2XdFV3-17" value="31，黑帮老大杜三爷长子，能文能武，俊朗瘦削" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" vertex="1" parent="1">
