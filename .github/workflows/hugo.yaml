@@ -51,7 +51,7 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Enter Subfolder
-        run: cd blog
+        run: cd docs
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
@@ -61,7 +61,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://zyowo.github.io/blog"          
+            --baseURL "https://zyowo.github.io/docs"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
