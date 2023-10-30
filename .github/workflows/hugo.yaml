@@ -59,7 +59,7 @@ jobs:
           cd docs && hugo \
             --gc \
             --minify \
-            --baseURL "https://zyowo.github.io/docs"          
+            --baseURL "${{ steps.pages.outputs.base_url }}/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
@@ -69,7 +69,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: "https://zyowo.github.io/docs"
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
     steps:
