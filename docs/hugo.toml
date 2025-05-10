@@ -1,4 +1,4 @@
-baseURL = "https://zyowo.github.io/blog"
+baseURL = "/"
 languageCode = "zh-cn"
 title = "Hagumi Blog"
 theme = "hello-friend-ng"
